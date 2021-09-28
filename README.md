@@ -1,4 +1,4 @@
-Nothing to changeb or develope
+Nothing to changeb or develop
 A expri docs
 
 ctrl+` = show or hide terminal
@@ -15,3 +15,4 @@ ctrl+shift+p = beautify the experience
 
 alt+z = toggle wrap
 
+markThree done
